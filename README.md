@@ -19,3 +19,5 @@ https://github.com/Nishithakesari/19ECB132/blob/main/binary%20search.c
 https://github.com/Nishithakesari/19ECB132/blob/main/intersection.c
 
 https://github.com/Nishithakesari/19ECB132/blob/main/letter%20count.c
+
+https://github.com/Nishithakesari/19ECB132/blob/main/thraded%20binary.c
