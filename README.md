@@ -15,3 +15,5 @@ https://github.com/Nishithakesari/19ECB132/blob/main/To%20check%20palindrome.%20
 https://github.com/Nishithakesari/19ECB132/blob/main/b%20tree.c
 
 https://github.com/Nishithakesari/19ECB132/blob/main/binary%20search.c
+
+https://github.com/Nishithakesari/19ECB132/blob/main/intersection.c
