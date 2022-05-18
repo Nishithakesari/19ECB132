@@ -25,3 +25,5 @@ https://github.com/Nishithakesari/19ECB132/blob/main/thraded%20binary.c
 https://github.com/Nishithakesari/19ECB132/blob/main/INTERLINKED.C
 
 https://github.com/Nishithakesari/19ECB132/blob/main/Data%20structures.c
+
+https://github.com/Nishithakesari/19ECB132/blob/main/DOUBLE%20LINKED.C
